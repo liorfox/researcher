@@ -1,6 +1,6 @@
 title: Lior Fox
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://liorfox.github.io"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
