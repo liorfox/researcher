@@ -1,6 +1,6 @@
 title: Lior Fox
 url: "https://liorfox.github.io"
-baseurl: "/"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
