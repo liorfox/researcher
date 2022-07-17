@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Teaching
 ---
 
 I was the TA at the *Computation and Cognition* course (6119) in 2018-2021.
