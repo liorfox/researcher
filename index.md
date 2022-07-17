@@ -2,44 +2,24 @@
 layout: default
 ---
 
-## About Me
+## About
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="avatarsquare.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I'm a PhD candidate at [The Edmond and Lily Safra Center for Brain Sciences](https://elsc.huji.ac.il) at the [Hebrew Univesrity of Jerusalem](https://new.huji.ac.il/), working in the lab of Professor [Yonatan Loewenstein](https://loewenstein.huji.ac.il/). 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Before that, I have completed my BSc in Computer Science and Cognitive Sciences, also at the Hebrew University.
 
 ## Research Interest
+My research focus is exploration behavior in complex environments, where decisions are made under uncertainty and have long-term (exploratory) consequences. I'm interested in combining theoretical approaches, developing models and algorithms for effective exploration, with an experimetnal approach for studying complex exporaltory behavior in humans.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Besides Reinforcement Learning and exploration, I'm ineresed in dynamics of neural computation, and in learning mechanisms in artificial and biological neural networks.
 
-## Publications
+I'm passionate about the history of neural networks studies in computational neuroscience, cognitive sciences, and AI.
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Contant
+The best way of contant is by email: [lior.fox@mail.huji.ac.il](mailto:lior.fox@mail.huji.ac.il). 
 
-## Typography
+I sometimes [tweet](https://twitter.com/__lfx), mostly non-academic stuff in Hebrew.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+If you find yourself in Jerusalem, you're welcome to visit me in [Giv'at Ram](https://goo.gl/maps/KcUpnmyK6838Gw8b6).
