@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Lior Fox
 ---
 
 ## About
