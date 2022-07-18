@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana/researcher"
-footer_text: 'Jekyll template design adapted from <a style="color: black" href="https://github.com/ankitsultana/researcher">researcher</a> theme'
+footer_text: 'Jekyll template design adapted from <a target="_blank" style="color: black" href="https://github.com/ankitsultana/researcher">researcher</a> theme'
 
 sass:
     style: compressed
