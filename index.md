@@ -17,7 +17,7 @@ Besides Reinforcement Learning and exploration, I'm interested in the dynamics o
 
 I have a special interest in the history of neural networks in computational neuroscience, cognitive sciences, and AI.
 
-## Contant
+## Contact
 The best way of contact is by email: [lior.fox@mail.huji.ac.il](mailto:lior.fox@mail.huji.ac.il). 
 
 I sometimes [tweet](https://twitter.com/__lfx), mostly non-academic stuff in Hebrew.
