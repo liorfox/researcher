@@ -11,9 +11,11 @@ title: Publications
 
 
 ## Book (upcoming)
-Expected publication of our book <mark>The Dynamics of Computation in Neuronal Networks</mark> is early 2023, in *MIT Press* (accepted).
+1. <mark>The Dynamics of Computation in Neuronal Networks</mark><br/>
+Yonatan Loewenstein, **Lior Fox**, Itamar Landau, and Gianluigi Mongillo<br/>
+Expected publication early 2023, *MIT Press* (accepted)
 
-We (Yonatan Loewenstein, Lior Fox, Itamar Landau, and Gianluigi Mongillo) are at the final steps of writing a computaional neuroscience book. The book is inteneded, mostly, to serve teachers and students of graduate-level courses in modelling networks dynamics.
+We are at the final steps of writing a computational neuroscience book. The book is intended to serve teachers and students of graduate-level courses in modelling networks dynamics.
 
 ## Talks and presentations
 1. <mark>Propagating Directed Exploration in
