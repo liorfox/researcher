@@ -13,12 +13,12 @@ Before that, I have completed my BSc in Computer Science and Cognitive Sciences,
 ## Research Interest
 My research focus is exploration behavior in complex environments, where decisions are made under uncertainty and have long-term (exploratory) consequences. I'm interested in combining theoretical approaches, developing models and algorithms for effective exploration, with an experimetnal approach for studying complex exporaltory behavior in humans.
 
-Besides Reinforcement Learning and exploration, I'm ineresed in dynamics of neural computation, and in learning mechanisms in artificial and biological neural networks.
+Besides Reinforcement Learning and exploration, I'm interested in the dynamics of neural computation, and in learning mechanisms in artificial and biological neural networks.
 
 I have a special interest in the history of neural networks in computational neuroscience, cognitive sciences, and AI.
 
 ## Contant
-The best way of contant is by email: [lior.fox@mail.huji.ac.il](mailto:lior.fox@mail.huji.ac.il). 
+The best way of contact is by email: [lior.fox@mail.huji.ac.il](mailto:lior.fox@mail.huji.ac.il). 
 
 I sometimes [tweet](https://twitter.com/__lfx), mostly non-academic stuff in Hebrew.
 
