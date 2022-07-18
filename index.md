@@ -6,14 +6,14 @@ layout: default
 
 <img class="profile-picture" src="avatarsquare.jpg">
 
-I'm a PhD candidate at [The Edmond and Lily Safra Center for Brain Sciences](https://elsc.huji.ac.il) at the [Hebrew University of Jerusalem](https://new.huji.ac.il/), working in the lab of Professor [Yonatan Loewenstein](https://loewenstein.huji.ac.il/). 
+I'm a PhD candidate at the Edmond and Lily Safra Center for Brain Sciences in the Hebrew University of Jerusalem, working in the lab of Professor Yonatan Loewenstein. 
 
 Previously, I have completed my BSc in Computer Science and Cognitive Sciences, also at the Hebrew University.
 
 ## Research Interests
-My research focus is exploration behavior in complex environments, where decisions are made under uncertainty and have long-term (exploratory) consequences. I'm interested in combining theoretical approaches, developing models and algorithms for effective exploration, with an experimental approach for studying complex exploratory behavior in humans.
+My research focus is exploration behavior in complex environments, where decisions are made under uncertainty and have long-term (exploratory) consequences. I'm combining theoretical approaches, developing models and algorithms for effective exploration, with experimental approaches for studying exploratory behavior of humans in complex environments.
 
-Besides Reinforcement Learning and exploration, I'm interested in the dynamics of neural computation, and in learning mechanisms in artificial and biological neural networks.
+Besides Reinforcement Learning and exploration, I'm interested in the dynamics of neural computation, and in learning mechanisms of artificial and biological neural networks.
 
 I have a special interest in the history of neural networks in computational neuroscience, cognitive sciences, and AI.
 
