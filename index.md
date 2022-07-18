@@ -16,7 +16,7 @@ My research focus is exploration behavior in complex environments, where decisio
 
 Besides Reinforcement Learning and exploration, I'm ineresed in dynamics of neural computation, and in learning mechanisms in artificial and biological neural networks.
 
-I'm passionate about the history of neural networks studies in computational neuroscience, cognitive sciences, and AI.
+I have a special interest in the history of neural networks in computational neuroscience, cognitive sciences, and AI.
 
 ## Contant
 The best way of contant is by email: [lior.fox@mail.huji.ac.il](mailto:lior.fox@mail.huji.ac.il). 

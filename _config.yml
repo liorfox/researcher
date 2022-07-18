@@ -7,9 +7,9 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: yes
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: 'Jekyll template design adapted from <a style="color: black" href="https://github.com/ankitsultana/researcher">researcher</a> theme'
 
 sass:
     style: compressed
@@ -22,3 +22,6 @@ nav:
    link: "pubs"
  - name: "Teaching"
    link: "teaching"
+
+plugins:
+  - jekyll-target-blank
