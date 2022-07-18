@@ -10,7 +10,7 @@ I'm a PhD candidate at [The Edmond and Lily Safra Center for Brain Sciences](htt
 
 Previously, I have completed my BSc in Computer Science and Cognitive Sciences, also at the Hebrew University.
 
-## Research Interest
+## Research Interests
 My research focus is exploration behavior in complex environments, where decisions are made under uncertainty and have long-term (exploratory) consequences. I'm interested in combining theoretical approaches, developing models and algorithms for effective exploration, with an experimental approach for studying complex exploratory behavior in humans.
 
 Besides Reinforcement Learning and exploration, I'm interested in the dynamics of neural computation, and in learning mechanisms in artificial and biological neural networks.
