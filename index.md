@@ -24,5 +24,3 @@ The best way of contant is by email: [lior.fox@mail.huji.ac.il](mailto:lior.fox@
 I sometimes [tweet](https://twitter.com/__lfx), mostly non-academic stuff in Hebrew.
 
 If you find yourself in Jerusalem, you're welcome to visit me in [Giv'at Ram](https://goo.gl/maps/KcUpnmyK6838Gw8b6).
-
-Site build on jekyll.
