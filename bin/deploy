@@ -102,6 +102,8 @@ find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.giti
 mv _site/* .
 rm -R _site/
 
+rm -R bin/
+
 # Create `.nojekyll` file (bypass GitHub Pages Jekyll processing)
 touch .nojekyll
 
