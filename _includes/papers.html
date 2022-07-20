@@ -1,0 +1,14 @@
+<div>
+        {% assign sorted_papers = site.data.papers | sort: 'year' | reverse %}
+        {% for paper in sorted_papers %}
+        <p>
+            <a href={{paper.link}} target="_blank">{{ paper.title}} </a><br/>
+            {% for author in paper.authors%}
+                {%if author contains site.title%}<strong>{{author}}</strong>{% else %}{{author}}{% endif %}{% unless forloop.last %}, {%endunless%}
+            {% endfor %}    
+            <br/>
+            <em>{{paper.venue}} {{paper.year}}</em> 
+        </p>
+        {% endfor %}
+    
+</div>

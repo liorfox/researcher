@@ -1,0 +1,31 @@
+- year: 2018
+  title: 'DORA The Explorer: Directed Outreaching Reinforcement Action-Selection'
+  venue: 'International Conference on Learning Representations (ICLR)'
+  authors:
+    - Lior Fox*
+    - Leshem Choshen*
+    - Yonatan Loewenstein
+  link: https://openreview.net/forum?id=ry1arUgCW
+
+
+- year: 2020
+  title: 'On the Weaknesses of Reinforcement Learning for Neural Machine Translation'
+  venue: 'International Conference on Learning Representations (ICLR)'
+  authors:
+    - Leshem Choshen
+    - Lior Fox
+    - Zohar Aizenbud
+    - Omri Abend
+  link: https://openreview.net/forum?id=H1eCw3EKvH
+
+
+- year: 2021
+  title:  'Exploration: from machines to humans'
+  venue: 'Current Opinion in Behavioral Sciences'
+  authors:
+    - Lior Fox*
+    - Ohad Dan*
+    - Lotem Elber-Dorozko*
+    - Yonatan Loewenstein
+  link: https://www.sciencedirect.com/science/article/pii/S2352154620301236
+

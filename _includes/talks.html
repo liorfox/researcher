@@ -1,0 +1,14 @@
+<div>
+    {% assign sorted_talks = site.data.talks | sort: 'year' | reverse %}
+    {% for talk in sorted_talks %}
+    <p>
+        <mark>{{ talk.title}} </mark><br/>
+        {% for author in talk.authors%}
+            {%if author contains site.title%}<strong>{{author}}</strong>{% else %}{{author}}{% endif %}{% unless forloop.last %}, {%endunless%}
+        {% endfor %}    
+        <br/>
+        <em>{{talk.venue}} {{talk.year}}</em> 
+    </p>
+    {% endfor %}
+
+</div>
