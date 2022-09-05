@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="avatarsquare.jpg">
 
-I'm a PhD candidate at the Edmond and Lily Safra Center for Brain Sciences in the Hebrew University of Jerusalem, working in the lab of Professor Yonatan Loewenstein. 
+I'm a PhD candidate at the [Edmond and Lily Safra Center for Brain Sciences](https://elsc.huji.ac.il/) in the Hebrew University of Jerusalem, working in the lab of Professor [Yonatan Loewenstein](https://loewenstein.huji.ac.il/). 
 
 Previously, I have completed my BSc in Computer Science and Cognitive Sciences, also at the Hebrew University.
 
