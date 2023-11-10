@@ -22,7 +22,7 @@ nav:
    link: "pubs"
  - name: "Teaching"
    link: "teaching"
- - name: 'Blogposts and other'
+ - name: 'Blogposts, slides, etc.'
    link: 'other'
 
 plugins:

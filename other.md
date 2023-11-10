@@ -14,4 +14,4 @@ I sometimes try to write less formal stuff.
 
 - [Backpropagating through Time](https://liorfox.substack.com/p/backpropagating-through-time) Or, How come backprop hasn’t been invented earlier?
 
-- [Is Deep Learning relevant for the Brain and Mind?](assets/pdf/dl_course_jan20.pdf){:target="_blank"} (Slides) guest lecture for ELSC Practical intro to DL course, January 2020 \[some thoughts might be slightly outdated...\]
+- [Is Deep Learning relevant for the Brain and Mind?](assets/pdf/dl_course_jan20.pdf){:target="_blank"} (Slides) guest lecture for ELSC Practical Intro to DL course, January 2020 _\[some views might be slightly outdated...\]_

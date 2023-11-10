@@ -6,14 +6,14 @@ layout: default
 
 <img class="profile-picture" src="avatarsquare.jpg">
 
-I'm a postdoctoral research fellow at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) in UCL.
+_**\[November 2023\]**_ I have recently joined the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) in UCL as a postdoctoral research fellow.
 
-Before that, I've completed my PhD at the [Edmond and Lily Safra Center for Brain Sciences](https://elsc.huji.ac.il/) in the Hebrew University of Jerusalem, working in the lab of Professor [Yonatan Loewenstein](https://loewenstein.huji.ac.il/). As an undergraduate, I studied Computer Science and Cognitive Sciences in the Hebrew University.
+I've completed my PhD at the [Edmond and Lily Safra Center for Brain Sciences](https://elsc.huji.ac.il/) in the Hebrew University of Jerusalem, working in the lab of Professor [Yonatan Loewenstein](https://loewenstein.huji.ac.il/). As an undergraduate, I studied Computer Science and Cognitive Sciences in the Hebrew University.
 
 ## Research Interests
-My research focus is exploration behavior in complex environments, where decisions are made under uncertainty and have long-term (exploratory) consequences. I'm combining theoretical approaches, developing models and algorithms for effective exploration, with experimental approaches for studying exploratory behavior of humans in complex environments.
+I'm currently interested in studying the representations formed by unsupervised learning in neural systems, both artificial and biological. More generally, I'm interested in the dynamics of neural computation, and in learning mechanisms of artificial and biological neural networks.
 
-Besides Reinforcement Learning and exploration, I'm interested in the dynamics of neural computation, and in learning mechanisms of artificial and biological neural networks.
+During my PhD studies, my research focus was exploration behavior in complex environments, where decisions are made under uncertainty and have long-term (exploratory) consequences. I was combining theoretical approaches, developing models and algorithms for effective exploration, with experimental approaches for studying exploratory behavior of humans in complex environments.
 
 I have a special interest in the [history](https://liorfox.substack.com) of neural networks models in computational neuroscience, cognitive sciences, and AI.
 
