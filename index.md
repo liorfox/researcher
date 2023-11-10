@@ -8,7 +8,7 @@ layout: default
 
 _**\[November 2023\]**_ I have recently joined the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) in UCL as a postdoctoral research fellow.
 
-I've completed my PhD at the [Edmond and Lily Safra Center for Brain Sciences](https://elsc.huji.ac.il/) in the Hebrew University of Jerusalem, working in the lab of Professor [Yonatan Loewenstein](https://loewenstein.huji.ac.il/). As an undergraduate, I studied Computer Science and Cognitive Sciences in the Hebrew University.
+I completed my PhD at the [Edmond and Lily Safra Center for Brain Sciences](https://elsc.huji.ac.il/) in the Hebrew University of Jerusalem, working in the lab of Professor [Yonatan Loewenstein](https://loewenstein.huji.ac.il/). As an undergraduate, I studied Computer Science and Cognitive Sciences in the Hebrew University.
 
 ## Research Interests
 I'm currently interested in studying the representations formed by unsupervised learning in neural systems, both artificial and biological. More generally, I'm interested in the dynamics of neural computation, and in learning mechanisms of artificial and biological neural networks.
