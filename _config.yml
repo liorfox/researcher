@@ -22,6 +22,8 @@ nav:
    link: "pubs"
  - name: "Teaching"
    link: "teaching"
+ - name: 'Blogposts and other'
+   link: 'other'
 
 plugins:
   - jekyll-target-blank
